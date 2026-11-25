@@ -1,3 +1,4 @@
-# Alichia and Associates Realty demo website
+# The Velvet Palm Studio, Florida demo website
 
-One page demo site built by Habtech for Alichia and Associates Realty, Birmingham, Alabama. Single index.html, no build step.
+Demo one page website built by Habtech for The Velvet Palm Studio, Florida.
+Static site, open index.html. Demo preview only, not the live website.
